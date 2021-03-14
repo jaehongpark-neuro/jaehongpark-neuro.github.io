@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Park, Jaehong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/IMG-3979.JPG
   bio              : "PhD Candidate in Biomedical Engineering."
   location         : "Cambridge, MA"
   email            :
