@@ -3,7 +3,7 @@ main:
   - title: "Hong"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://github.com/jaehongpark-neuro/jaehongpark-neuro.github.io/blob/master/usv.html
+    url: /About/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
