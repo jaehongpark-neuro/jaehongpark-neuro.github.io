@@ -4,7 +4,7 @@ main:
     url: /Hong/
   - title: "About"
     url: /About/
-  # - title: "CV"
+  - title: "CV"
     url: /CV/
   # - title: "Sample Collections"
   #   url: /collection-archive/
