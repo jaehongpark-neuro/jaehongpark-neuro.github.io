@@ -7,3 +7,5 @@ comments: true
 ---
 
 Introduction 
+
+I am a PhD candidate in Biomedical Engineering at Duke University
